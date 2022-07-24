@@ -7,7 +7,8 @@
 # Survive The Grid!
 
 Play as a computer virus tasked with traversing from network to network and infecting them while cleverly maneuvering obstacles using your powers.
-[Read The Full GDD](./Expl01t_GDD.docx)
+
+[Read The Full Design Document](./Expl01t_GDD.docx)
 
 # Immersive HUD and Environments
 ![Immersion](./screenshots/Immersive.gif)
