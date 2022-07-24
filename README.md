@@ -8,17 +8,17 @@
 
 Play as a computer virus tasked with traversing from network to network and infecting them while cleverly maneuvering obstacles using your powers.
 
-# Parkour!
+# Parkour
 ![Parkour](./screenshots/Parkour.gif)
 
 # Wallrunning
-![Parkour](./screenshots/WallRunning.gif)
+![WallRunning](./screenshots/WallRunning.gif)
 
 # Hook Code Fragments
-![Parkour](./screenshots/Hook.gif)
+![Hooking](./screenshots/Hook.gif)
 
 # Boost Across Vast Gaps
-![Parkour](./screenshots/Boost.gif)
+![Boosting](./screenshots/Boost.gif)
 
 # More Gameplay Here!
 <a href="https://www.youtube.com/embed/aVxXWEto6n8">Watch Here!</a>
