@@ -9,16 +9,16 @@
 Play as a computer virus tasked with traversing from network to network and infecting them while cleverly maneuvering obstacles using your powers.
 
 # Parkour!
-[Parkour](https://github.com/Nizar1999/Expl01t/blob/main/screenshots/Parkour.gif)
+[Parkour](./screenshots/Parkour.gif)
 
 # Wallrunning
-[Parkour](https://github.com/Nizar1999/Expl01t/blob/main/screenshots/WallRunning.gif)
+[Parkour](./screenshots/WallRunning.gif)
 
 # Hook Code Fragments
-[Parkour](https://github.com/Nizar1999/Expl01t/blob/main/screenshots/Hook.gif)
+[Parkour](./screenshots/Hook.gif)
 
 # Boost Across Vast Gaps
-[Parkour](https://github.com/Nizar1999/Expl01t/blob/main/screenshots/Boost.gif)
+[Parkour](./screenshots/Boost.gif)
 
 # More Gameplay Here!
 <a href="https://www.youtube.com/embed/aVxXWEto6n8">Watch Here!</a>
