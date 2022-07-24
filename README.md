@@ -23,7 +23,7 @@ Play as a computer virus tasked with traversing from network to network and infe
 # Boost Across Vast Gaps
 ![Boosting](./screenshots/Boost.gif)
 
-# See how you score
+# See How You Score
 ![Boosting](./screenshots/Score.png)
 
 # More Gameplay Here!
