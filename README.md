@@ -8,6 +8,9 @@
 
 Play as a computer virus tasked with traversing from network to network and infecting them while cleverly maneuvering obstacles using your powers.
 
+#Immersive HUD and Environments
+![Immersion](./screenshots/Immersion.gif)
+
 # Parkour
 ![Parkour](./screenshots/Parkour.gif)
 
