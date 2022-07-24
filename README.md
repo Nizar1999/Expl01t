@@ -24,7 +24,7 @@ Play as a computer virus tasked with traversing from network to network and infe
 ![Boosting](./screenshots/Boost.gif)
 
 # See How You Score
-![Boosting](./screenshots/Score.png)
+![Boosting](./screenshots/EndScore.png)
 
 # More Gameplay Here!
 <a href="https://www.youtube.com/embed/aVxXWEto6n8">Watch Here!</a>
