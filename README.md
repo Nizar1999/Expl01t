@@ -7,7 +7,7 @@
 # Survive The Grid!
 
 Futuristic parkour platformer with high octane gameplay.
-Play as a computer virus tasked with traversing from network to network and cleverly maneuver obstacles by utilizing powers and abilities such as a grapple hook and a massive speed boost.
+Play as a computer virus tasked with traversing from network to network and infecting them while cleverly maneuvering obstacles by utilizing powers and abilities such as a grapple hook and a massive speed boost.
 
 # Sample Gameplay Video
 <a href="https://www.youtube.com/embed/aVxXWEto6n8">Watch Here!</a>
