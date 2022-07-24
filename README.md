@@ -9,7 +9,7 @@
 Play as a computer virus tasked with traversing from network to network and infecting them while cleverly maneuvering obstacles using your powers.
 
 # Immersive HUD and Environments
-![Immersion](./screenshots/Immersion.gif)
+![Immersion](./screenshots/Immersive.gif)
 
 # Parkour
 ![Parkour](./screenshots/Parkour.gif)
@@ -22,6 +22,9 @@ Play as a computer virus tasked with traversing from network to network and infe
 
 # Boost Across Vast Gaps
 ![Boosting](./screenshots/Boost.gif)
+
+# See how you score
+![Boosting](./screenshots/Score.png)
 
 # More Gameplay Here!
 <a href="https://www.youtube.com/embed/aVxXWEto6n8">Watch Here!</a>
